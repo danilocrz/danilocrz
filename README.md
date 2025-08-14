@@ -2,9 +2,27 @@
 
 **`Desenvolvedor Mobile`**
 
-Me chamo Danilo Cruz, tenho 19 anos e sou natural de Santa Catarina. Atualmente, curso Engenharia de Software na Uniasselvi e atuo como desenvolvedor Flutter, criando aplicativos modernos e responsivos para Android e iOS.
+💻 Desenvolvedor **Flutter** | 📱 Criador de Apps Android & iOS  
+🎓 Estudante de **Engenharia de Software** na **Uniasselvi**  
+📍 Santa Catarina, Brasil | 19 anos  
 
 ---
+
+<br/>
+
+## 🚀 Sobre mim  
+Atuo como desenvolvedor **Flutter**, mantendo e aprimorando **aplicativos de transporte público** utilizados por milhares de pessoas diariamente.  <br/> 
+Tenho experiência em integração com **APIs** e uso de **Firebase** para autenticação e notificações.  
+
+---
+<br/>
+
+## 💼 Projetos e Contribuições
+
+- **Bus2 App** – Manutenção e aprimoramento de funcionalidades, com Firebase, garantindo alta performance e estabilidade.
+
+
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -71,3 +89,4 @@ Me chamo Danilo Cruz, tenho 19 anos e sou natural de Santa Catarina. Atualmente,
   />
 
 </p>
+
